@@ -1,11 +1,7 @@
 # Hi there, I'm William 👋
 
----
-
 ## About Me
 Just an ordinary guy who loves data and automation for efficiency.
-
----
 
 ## My Tech Stacks
 
