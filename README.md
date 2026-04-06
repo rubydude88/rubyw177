@@ -1,14 +1,9 @@
 # Hi there, I'm William 👋
 
-I'm experienced in data analysis, machine learning, and embedded systems. I hold a graduate degree in Electronics Engineering and have honed my skills through hands-on projects, internships, and research initiatives. Now applying my data and ML skillset in media and marketing world.
-
 ---
 
 ## About Me
-- 🎓 Graduate in Electronics Engineering
-- 📊 Experienced in Data Analysis and Machine Learning
-- 🔧 Skilled in Embedded Systems, Digital Design, and Hardware-Software Integration
-- 🚀 Passionate about applying technical expertise to solve real-world challenges
+Just an ordinary guy who loves data and automation for efficiency.
 
 ---
 
