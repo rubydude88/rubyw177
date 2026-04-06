@@ -1,4 +1,4 @@
-# Hi there, I'm William 👋
+# Hi there, I'm ruby 👋
 
 ## About Me
 Just an ordinary guy who loves data and automation for efficiency.
